@@ -1,0 +1,64 @@
+{
+  "medical": [
+    {
+      "id": "1",
+      "htext": "Meeting with our clients",
+      "text": "Nec ullamcorper sit amet risus nullam eget. Vestibulum lorem sed risus ultricies tristique nulla. Ultrices tincidunt arcu non sodales neque sodales ut."
+    },
+    {
+      "id": "2",
+      "text": "History of Patients",
+      "image": "/medical/Activities/M2.png"
+    },
+    {
+      "id": "3",
+      "text": "Medical Reports",
+      "image": "/medical/Activities/M3.png"
+    },
+    {
+      "id": "4",
+      "text": "Recent History",
+      "image": "/medical/Activities/M4.png"
+    },
+    {
+      "id": "5",
+      "text": "Annual Reports",
+      "image": "/medical/Activities/M5.png"
+    },
+    {
+      "id": "6",
+      "text": "Communicate with you doctor",
+      "image": "/medical/Activities/M6.png"
+    },
+    {
+      "id": "7",
+      "text": "Appointment details",
+      "image": "/medical/Activities/M7.png"
+    },
+    {
+      "id": "8",
+      "text": "Personal Information",
+      "image": "/medical/Activities/M8.png"
+    },
+    {
+      "id": "9",
+      "text": "Pharmacy",
+      "image": "/medical/Activities/M9.png"
+    },
+    {
+      "id": "10",
+      "text": "Medical Insurance",
+      "image": "/medical/Activities/M10.png"
+    },
+    {
+      "id": "11",
+      "text": "Documents",
+      "image": "/medical/Activities/M11.png"
+    },
+    {
+      "id": "12",
+      "text": "School Immunization",
+      "image": "/medical/Activities/M12.png"
+    }
+  ]
+}

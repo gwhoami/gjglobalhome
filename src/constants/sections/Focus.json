@@ -1,0 +1,106 @@
+{
+  "event": [
+    {
+      "id": "1",
+      "text": "event-planning",
+      "image": "/event/Activities/eventPlanning.png"
+    },
+    {
+      "id": "2",
+      "text": "decorations",
+      "image": "/event/Activities/Decoration.png"
+    },
+    {
+      "id": "3",
+      "text": "camera",
+      "image": "/event/Activities/Camera.png"
+    },
+    {
+      "id": "4",
+      "text": "audio-videos",
+      "image": "/event/Activities/Audio-Videos.png"
+    },
+    {
+      "id": "5",
+      "text": "logistics",
+      "image": "/event/Activities/Logistics.png"
+    },
+    {
+      "id": "6",
+      "text": "cultural-activities",
+      "image": "/event/Activities/culturalActivities.png"
+    },
+    {
+      "id": "7",
+      "text": "catrine-foods",
+      "image": "/event/Activities/CatrineFoods.png"
+    },
+    {
+      "id": "8",
+      "text": "man-power",
+      "image": "/event/Activities/ManPower.png"
+    }
+  ],
+  "medical": [
+    {
+      "id": "1",
+      "text": "Meeting Patients",
+      "image": "/medical/Activities/M1.png"
+    },
+    {
+      "id": "2",
+      "text": "History of Patients",
+      "image": "/medical/Activities/M2.png"
+    },
+    {
+      "id": "3",
+      "text": "Medical Reports",
+      "image": "/medical/Activities/M3.png"
+    },
+    {
+      "id": "4",
+      "text": "Recent History",
+      "image": "/medical/Activities/M4.png"
+    },
+    {
+      "id": "5",
+      "text": "Annual Reports",
+      "image": "/medical/Activities/M5.png"
+    },
+    {
+      "id": "6",
+      "text": "Communicate with you doctor",
+      "image": "/medical/Activities/M6.png"
+    },
+    {
+      "id": "7",
+      "text": "Appointment details",
+      "image": "/medical/Activities/M7.png"
+    },
+    {
+      "id": "8",
+      "text": "Personal Information",
+      "image": "/medical/Activities/M8.png"
+    },
+    {
+      "id": "9",
+      "text": "Pharmacy",
+      "image": "/medical/Activities/M9.png"
+    },
+    {
+      "id": "10",
+      "text": "Medical Insurance",
+      "image": "/medical/Activities/M10.png"
+    },
+    {
+      "id": "11",
+      "text": "Documents",
+      "image": "/medical/Activities/M11.png"
+    },
+    {
+      "id": "12",
+      "text": "School Immunization",
+      "image": "/medical/Activities/M12.png"
+    }
+  ]
+}

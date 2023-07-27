@@ -1,0 +1,36 @@
+{
+  "event": [
+    {
+      "id": "1",
+      "image": "/event/noavatar.png",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat reprehenderit quod veritatis expedita ducimus illum ipsa impedit eaque nihil temporibus!"
+    },
+    {
+      "id": "2",
+      "image": "/event/noavatar.png",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat reprehenderit quod veritatis expedita ducimus illum ipsa impedit eaque nihil temporibus!"
+    },
+    {
+      "id": "3",
+      "image": "/event/noavatar.png",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat reprehenderit quod veritatis expedita ducimus illum ipsa impedit eaque nihil temporibus!"
+    }
+  ],
+  "medical": [
+    {
+      "id": "1",
+      "image": "/event/noavatar.png",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat reprehenderit quod veritatis expedita ducimus illum ipsa impedit eaque nihil temporibus!"
+    },
+    {
+      "id": "2",
+      "image": "/event/noavatar.png",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat reprehenderit quod veritatis expedita ducimus illum ipsa impedit eaque nihil temporibus!"
+    },
+    {
+      "id": "3",
+      "image": "/event/noavatar.png",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat reprehenderit quod veritatis expedita ducimus illum ipsa impedit eaque nihil temporibus!"
+    }
+  ]
+}

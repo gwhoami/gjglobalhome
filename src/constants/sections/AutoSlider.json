@@ -1,0 +1,70 @@
+{
+  "event": [
+    {
+      "id": "1",
+      "image": "/event/HeroAutoSlider/Img1.jpg"
+    },
+    {
+      "id": "2",
+      "image": "/event/HeroAutoSlider/Img2.jpg"
+    },
+    {
+      "id": "3",
+      "image": "/event/HeroAutoSlider/Img3.jpg"
+    },
+    {
+      "id": "4",
+      "image": "/event/HeroAutoSlider/Img4.jpg"
+    },
+    {
+      "id": "5",
+      "image": "/event/HeroAutoSlider/Img5.jpg"
+    },
+    {
+      "id": "6",
+      "image": "/event/HeroAutoSlider/Img6.jpg"
+    },
+    {
+      "id": "7",
+      "image": "/event/HeroAutoSlider/Img7.jpg"
+    },
+    {
+      "id": "8",
+      "image": "/event/HeroAutoSlider/Img8.jpg"
+    }
+  ],
+  "medical": [
+    {
+      "id": "1",
+      "image": "/event/HeroAutoSlider/Img1.jpg"
+    },
+    {
+      "id": "2",
+      "image": "/event/HeroAutoSlider/Img2.jpg"
+    },
+    {
+      "id": "3",
+      "image": "/event/HeroAutoSlider/Img3.jpg"
+    },
+    {
+      "id": "4",
+      "image": "/event/HeroAutoSlider/Img4.jpg"
+    },
+    {
+      "id": "5",
+      "image": "/event/HeroAutoSlider/Img5.jpg"
+    },
+    {
+      "id": "6",
+      "image": "/event/HeroAutoSlider/Img6.jpg"
+    },
+    {
+      "id": "7",
+      "image": "/event/HeroAutoSlider/Img7.jpg"
+    },
+    {
+      "id": "8",
+      "image": "/event/HeroAutoSlider/Img8.jpg"
+    }
+  ]
+}

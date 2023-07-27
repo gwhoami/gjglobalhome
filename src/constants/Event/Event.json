@@ -1,0 +1,76 @@
+{
+  "event": [
+    {
+      "id": "1",
+      "label": "Planning",
+      "value": "planning"
+    },
+    {
+      "id": "2",
+      "label": "Decoration",
+      "value": "decoration"
+    },
+    {
+      "id": "3",
+      "label": "Camera",
+      "value": "camera"
+    },
+    {
+      "id": "4",
+      "label": "Cultural",
+      "value": "cultural"
+    },
+    {
+      "id": "5",
+      "label": "Logistics",
+      "value": "logistics"
+    },
+    {
+      "id": "6",
+      "label": "Food",
+      "value": "food"
+    },
+    {
+      "id": "7",
+      "label": "Others",
+      "value": "others"
+    }
+  ],
+  "medical": [
+    {
+      "id": "1",
+      "label": "General",
+      "value": "general"
+    },
+    {
+      "id": "2",
+      "label": "Follow up",
+      "value": "follow up"
+    },
+    {
+      "id": "3",
+      "label": "Special Visit",
+      "value": "special visit"
+    },
+    {
+      "id": "4",
+      "label": "Blood Work",
+      "value": "blood work"
+    },
+    {
+      "id": "5",
+      "label": "Immunization",
+      "value": "immunization"
+    },
+    {
+      "id": "6",
+      "label": "COVID Test",
+      "value": "covid test"
+    },
+    {
+      "id": "7",
+      "label": "Others",
+      "value": "others"
+    }
+  ]
+}

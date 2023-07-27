@@ -1,0 +1,78 @@
+{
+  "event": [
+    {
+      "id": "1",
+      "image": "/event/Slider/Img1.jpg",
+      "title": "Loretta Holy Communion",
+      "about": "Communion Photos"
+    },
+    {
+      "id": "2",
+      "image": "/event/Slider/Img2.jpg",
+      "title": "Title",
+      "about": "About"
+    },
+    {
+      "id": "3",
+      "image": "/event/Slider/Img3.jpg",
+      "title": "Title",
+      "about": "About"
+    },
+    {
+      "id": "4",
+      "image": "/event/Slider/Img4.jpg",
+      "title": "Title",
+      "about": "About"
+    },
+    {
+      "id": "5",
+      "image": "/event/Slider/Img5.jpg",
+      "title": "Title",
+      "about": "About"
+    },
+    {
+      "id": "6",
+      "image": "/event/Slider/Img6.jpg",
+      "title": "Title",
+      "about": "About"
+    }
+  ],
+  "medical": [
+    {
+      "id": "1",
+      "image": "/event/Slider/Img1.jpg",
+      "title": "Loretta Holy Communion",
+      "about": "Communion Photos"
+    },
+    {
+      "id": "2",
+      "image": "/event/Slider/Img2.jpg",
+      "title": "Title",
+      "about": "About"
+    },
+    {
+      "id": "3",
+      "image": "/event/Slider/Img3.jpg",
+      "title": "Title",
+      "about": "About"
+    },
+    {
+      "id": "4",
+      "image": "/event/Slider/Img4.jpg",
+      "title": "Title",
+      "about": "About"
+    },
+    {
+      "id": "5",
+      "image": "/event/Slider/Img5.jpg",
+      "title": "Title",
+      "about": "About"
+    },
+    {
+      "id": "6",
+      "image": "/event/Slider/Img6.jpg",
+      "title": "Title",
+      "about": "About"
+    }
+  ]
+}
